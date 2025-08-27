@@ -1,5 +1,6 @@
 {
   "status": "ok",
   "message": "Server connected successfully",
-  "api_url": "https://bgmiloaderpanel.online/api/connect"
+  "api_url": "https://bgmiloaderpanel.online/api/connect",
+  "key": "1234567890abcdef"
 }
